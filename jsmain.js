@@ -1,3 +1,9 @@
+/*
+ * RetroArch Menu Shader Pipeline Ribbon
+ * Port for THREE.js
+ * https://github.com/libretro/RetroArch
+ */
+
 let scene, camera, renderer, ribbon;
 
 const container = document.querySelector("#container");
